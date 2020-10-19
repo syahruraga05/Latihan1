@@ -154,5 +154,6 @@ Kelas : TI 20.A2
 * untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada url berikut: https://guides.github.com/features/mastering-markdown/
 
 
-![GitHub Logo](/images/Cap.PNG)
+![image](https://user-images.githubusercontent.com/73059731/96462440-c44c8e80-124f-11eb-989a-861024fd6cd6.png)
+
 
